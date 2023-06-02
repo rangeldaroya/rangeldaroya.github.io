@@ -11,30 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Massachusetts Amherst, 2022-Present
+* M.S. in Electrical Engineering, University of the Philippines, 2018-2020
+* B.S. in Electronics and Communications Engineering, University of the Philippines, 2012-2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-Present: Research Assistant
+  * University of Massachusetts Amherst
+  * Esimating water quality through suspended sediment concentration using satellite images with machine learning and computer vision
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
