@@ -9,3 +9,6 @@ redirect_from:
 ---
 
 This is Rangel's home on the web
+
+
+# News
