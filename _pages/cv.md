@@ -19,7 +19,7 @@ Work experience
 ======
 * 2022-Present: Research Assistant
   * University of Massachusetts Amherst
-  * Esimating water quality through suspended sediment concentration using satellite images with machine learning and computer vision
+  * Esimating water quality and sediment movements in Earth's rivers using satellite images with machine learning and computer vision
 
 
 Publications
