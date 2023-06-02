@@ -11,4 +11,4 @@ citation: 'Rangel Daroya, Daryl Peralta, and Prospero Naval. Alphabet sign langu
 
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8650241)
 
-Recommended citation: Rangel Daroya, Daryl Peralta, and Prospero Naval. Alphabet sign language image classification using deep learning. In <i>Proceedings of the IEEE Region 10 Conference</i>, pages 0646–0650, 2018.
+<!-- Recommended citation: Rangel Daroya, Daryl Peralta, and Prospero Naval. Alphabet sign language image classification using deep learning. In <i>Proceedings of the IEEE Region 10 Conference</i>, pages 0646–0650, 2018. -->

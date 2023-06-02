@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Rangel's home on the web
+I am a PhD student in the College of Information and Computer Sciences at the University of Massachuesetts Amherst, supervised by [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) in the [Computer Vision Lab](http://vis-www.cs.umass.edu/people.html). Previously, I was a graduate research assistant at the University of the Philippines working on 3D reconstruction under the supervision of Prof. [Rowel Atienza](https://scholar.google.com/citations?user=ZkpXaOsAAAAJ&hl=en), where I also got my master's degree in Electrical Engineering. I obtained my bachelor's degree in Electronics and Communications Engineering from the same univeristy.
 
+My research interests include 
+* Using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images
+* Explainable AI
 
 # News
+* **2022-09** Started PhD CS at Umass Amherst
