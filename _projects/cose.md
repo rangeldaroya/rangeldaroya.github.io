@@ -29,6 +29,34 @@ We propose consistency and sensitivity metrics that measure two complementary pr
 # Results
 Below we discuss the key insights from analyzing with COSE across eight models, five datasets, and seven saliency methods.
 
+
+| **Dataset** 	| **Model** 	| **BlurIG** 	| **GradCAM** 	| **GradCAM++** 	| **GuidedIG** 	| **IG** 	| **LIME** 	| **SmoothGrad** 	|
+|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+| **Caltech101** 	| **ConvNext** 	| 63.01% 	| 63.50% 	| 65.28% 	| 54.25% 	| 62.53% 	| 61.51% 	| 60.90% 	|
+|  	| **ResNet50** 	| 65.77% 	| 61.86% 	| 45.41% 	| 52.41% 	| 58.80% 	| 56.69% 	| 59.60% 	|
+|  	| **Swin-T** 	| 67.81% 	| 67.15% 	| 57.50% 	| 52.54% 	| 64.68% 	| 63.17% 	| 61.95% 	|
+|  	| **ViT** 	| 69.60% 	| 68.66% 	| 60.30% 	| 57.48% 	| 66.67% 	| 61.12% 	| 66.41% 	|
+| **CIFAR10** 	| **ConvNext** 	| 61.46% 	| 66.74% 	| 66.72% 	| 53.02% 	| 60.91% 	| 62.06% 	| 58.85% 	|
+|  	| **ResNet50** 	| 60.47% 	| 62.29% 	| 42.75% 	| 48.27% 	| 51.20% 	| 59.86% 	| 52.02% 	|
+|  	| **Swin-T** 	| 66.35% 	| 69.66% 	| 58.29% 	| 50.11% 	| 63.05% 	| 65.76% 	| 56.95% 	|
+|  	| **ViT** 	| 66.46% 	| 71.54% 	| 59.11% 	| 55.72% 	| 66.68% 	| 63.85% 	| 61.00% 	|
+| **CUB200** 	| **ConvNext** 	| 54.15% 	| 60.61% 	| 59.81% 	| 59.59% 	| 61.20% 	| 56.90% 	| 47.89% 	|
+|  	| **ResNet50** 	| 58.63% 	| 44.01% 	| 40.74% 	| 56.50% 	| 60.05% 	| 55.50% 	| 52.38% 	|
+|  	| **Swin-T** 	| 62.37% 	| 62.51% 	| 49.78% 	| 60.14% 	| 64.02% 	| 59.06% 	| 56.05% 	|
+|  	| **ViT** 	| 59.07% 	| 64.80% 	| 56.65% 	| 61.26% 	| 60.42% 	| 58.31% 	| 53.70% 	|
+| **EuroSAT** 	| **ConvNext** 	| 59.17% 	| 65.47% 	| 63.58% 	| 52.83% 	| 61.45% 	| 60.23% 	| 57.17% 	|
+|  	| **ResNet50** 	| 57.28% 	| 62.27% 	| 45.17% 	| 40.87% 	| 46.14% 	| 59.47% 	| 47.96% 	|
+|  	| **Swin-T** 	| 64.74% 	| 66.49% 	| 53.82% 	| 47.51% 	| 61.99% 	| 59.60% 	| 60.43% 	|
+|  	| **ViT** 	| 67.85% 	| 70.31% 	| 57.95% 	| 57.90% 	| 68.12% 	| 60.63% 	| 62.48% 	|
+| **Oxford102** 	| **ConvNext** 	| 58.60% 	| 62.78% 	| 61.74% 	| 58.73% 	| 60.71% 	| 57.23% 	| 57.77% 	|
+|  	| **ResNet50** 	| 61.13% 	| 61.90% 	| 40.30% 	| 54.93% 	| 55.07% 	| 58.32% 	| 56.60% 	|
+|  	| **Swin-T** 	| 66.57% 	| 67.38% 	| 56.87% 	| 52.86% 	| 63.42% 	| 62.06% 	| 59.41% 	|
+|  	| **ViT** 	| 66.90% 	| 68.31% 	| 59.14% 	| 59.67% 	| 65.92% 	| 61.44% 	| 62.95% 	|
+|  	|  	| **63.23%** 	| **64.66%** 	| **54.59%** 	| **54.73%** 	| **61.33%** 	| **60.11%** 	| **57.94%** 	|
+
+*Table 1: Results of COSE evaluation on saliency methods across different models and datasets. GradCAM is shown to be more reliable than other methods based on COSE.*
+
+
 ### Transformers have better explanations than ConvNets
 
 ![Transformers have better explanations quantitatively](https://rangeldaroya.github.io/files/cose_transformer_convnet.png)
