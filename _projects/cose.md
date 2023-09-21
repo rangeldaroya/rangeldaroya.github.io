@@ -9,12 +9,11 @@ tags:
   - image classification
   - model explanations
 ---
+
 <div align="center">
 
-[Rangel Daroya*](https://rangeldaroya.github.io/), [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html)
-
-_University of Massachusetts Amherst_
-
+Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) <br/>
+_University of Massachusetts Amherst_ <br/>
 [[arXiv Paper]](https://arxiv.org/abs/2309.10989)
 </div>
 
