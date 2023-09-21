@@ -1,5 +1,5 @@
 ---
-title: 'COSE: A Consistency-Sensitivity Metric for Saliency on Image Classification'
+title: '<div align="center">COSE: A Consistency-Sensitivity Metric for Saliency on Image Classification</div>'
 # date: 2023-09-20
 permalink: /projects/cose
 tags:
@@ -9,9 +9,14 @@ tags:
   - image classification
   - model explanations
 ---
-Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io/), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html)
+<div align="center">
+
+[Rangel Daroya*](https://rangeldaroya.github.io/), [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html)
 
 _University of Massachusetts Amherst_
+
+[[arXiv Paper]](https://arxiv.org/abs/2309.10989)
+</div>
 
 ![Saliency Evaluation Across Datasets](https://rangeldaroya.github.io/files/cose_saliency-methods-dataset-transforms.png)
 *Figure 1: Saliency maps extracted from a ResNet50 on CUB200 and CIFAR10 images. The colors indicate pixel importance predicted by different methods (blue=low; red=high). We show two sample data transformations: FlipLR (geometric transformation) and Equalize (photometric transformation). GradCAM is consistently focuses on the chest of the bird, despite the left-right flip. Even with image equalization, GradCAM emphasizes the nose of the dog. While other methods appear to do well on FlipLR, they struggle with Equalize. The proposed COnsistency-SEnsitivity (COSE) metric quantifies the equivariant and invariant properties of visual model explanations using simple data augmentations.*
