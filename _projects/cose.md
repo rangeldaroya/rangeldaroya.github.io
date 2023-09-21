@@ -12,11 +12,11 @@ tags:
 
 <div align="center">
 
-Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html)
-
-_University of Massachusetts Amherst_
-
-[[arXiv Paper]](https://arxiv.org/abs/2309.10989)
+<!-- Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) <br/> -->
+<a href="https://rangeldaroya.github.io/">Rangel Daroya*</a>, <a href="https://aaronsun1030.github.io">Aaron Sun*</a>, <a href="https://people.cs.umass.edu/~smaji/index.html">Subhransu Maji</a> <br/>
+<em> University of Massachusetts Amherst </em> <br/>
+<a href="https://arxiv.org/abs/2309.10989">[arXiv Paper]</a> <br/>  
+<!-- [[arXiv Paper]](https://arxiv.org/abs/2309.10989) <br/> -->
 
 </div>
 
