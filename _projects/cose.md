@@ -12,9 +12,12 @@ tags:
 
 <div align="center">
 
-Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) <br/>
-_University of Massachusetts Amherst_ <br/>
+Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html)
+
+_University of Massachusetts Amherst_
+
 [[arXiv Paper]](https://arxiv.org/abs/2309.10989)
+
 </div>
 
 ![Saliency Evaluation Across Datasets](https://rangeldaroya.github.io/files/cose_saliency-methods-dataset-transforms.png)
