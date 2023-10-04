@@ -19,7 +19,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://rangeldaroya.github.io/files/cv-rangel-daroya.pdf
+    # url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
