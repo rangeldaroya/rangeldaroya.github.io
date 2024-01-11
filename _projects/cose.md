@@ -15,7 +15,7 @@ tags:
 <!-- Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) <br/> -->
 <a href="https://rangeldaroya.github.io/">Rangel Daroya*</a>, <a href="https://aaronsun1030.github.io">Aaron Sun*</a>, <a href="https://people.cs.umass.edu/~smaji/index.html">Subhransu Maji</a> <br/>
 <em> University of Massachusetts Amherst </em> <br/>
-<a href="https://arxiv.org/abs/2309.10989">[arXiv Paper]</a> <br/>  
+<a href="https://arxiv.org/abs/2309.10989">[arXiv]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023W/VIPriors/html/Daroya_COSE_A_Consistency-Sensitivity_Metric_for_Saliency_on_Image_Classification_ICCVW_2023_paper.html">[Paper]</a>  <br/>  
 <!-- [[arXiv Paper]](https://arxiv.org/abs/2309.10989) <br/> -->
 
 </div>
@@ -89,8 +89,17 @@ At the same time, most methods struggle explaining changes related to photometri
 # Code
 The code is available at [https://github.com/cvl-umass/COSE](https://github.com/cvl-umass/COSE)
 
-<!-- # BibTeX -->
-
+# BibTeX
+```
+@InProceedings{Daroya_2023_ICCV,
+    author    = {Daroya, Rangel and Sun, Aaron and Maji, Subhransu},
+    title     = {COSE: A Consistency-Sensitivity Metric for Saliency on Image Classification},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {149-158}
+}
+```
 
 # Acknowledgements
 The project was funded in part by NSF grant #1749833 to Subhransu Maji. The experiments were performed on the University of Massachusetts GPU cluster funded by the Mass. Technology Collaborative.
