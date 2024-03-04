@@ -50,6 +50,7 @@ Finally, the low-dimensional box embeddings have the added advantage of being in
 | Asymmetric Cosine    | 9.29%             | 11.54%           | 2.83%  | 1.47%          | 1.47%            | 1.47%  |
 | Asymmetric Euclidean | 1.71%             | 1.71%            | 8.53%  | 1.47%          | 1.47%            | 1.91%  |
 | Random               | 2.06%             | 2.06%            | 2.06%  | 1.49%          | 1.49%            | 1.49%  |
+
 *Table 1: Average F1 Score for predicting hierarchical relationships on iNaturalist + CUB.*
 
 |                      | Existing Datasets |                  |        | Novel Datasets |                  |        |
@@ -64,6 +65,7 @@ Finally, the low-dimensional box embeddings have the added advantage of being in
 | Asymmetric Cosine    | 4.28%             | 4.28%            | 6.92%  | 4.52%          | 4.52%            | 0.00%  |
 | Asymmetric Euclidean | 3.73%             | 3.73%            | 7.16%  | 4.52%          | 4.52%            | 4.73%  |
 | Random               | 3.64%             | 3.64%            | 3.64%  | 5.02%          | 5.02%            | 5.02%  |
+
 *Table 2: Average F1 Score for predicting hierarchical relationships on ImageNet instruments.*
 
 |               | Existing Datasets | Novel Datasets |
@@ -74,6 +76,7 @@ Finally, the low-dimensional box embeddings have the added advantage of being in
 | MLP           | 0.88 +/- 0.06     | 0.31 +/- 0.18  |
 | Linear        | 0.75 +/- 0.11     | 0.40 +/- 0.24  |
 | Random        | 0.05 +/- 0.14     | 0.15 +/- 0.07  |
+
 *Table 3: Spearman correlation and standard deviation between the predicted and ground truth task affinities from Taskonomy. Our method shows higher correlation with the task affinities compared to other baseline methods.*
 
 ![ImageNet Hierarchy Result](https://rangeldaroya.github.io/files/task2box_imagenet_hierarchy.png)
