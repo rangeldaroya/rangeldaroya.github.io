@@ -22,6 +22,8 @@ tags:
 ![iNat CUB Hierarchy Result](https://rangeldaroya.github.io/files/task2box_inatcub_hierarchy.png)
 *Fig 1: Box embeddings of 150 datasets of iNaturalist + CUB and corresponding learned hierarchy for Class Arachnida. Each taxonomic category is treated as a separate dataset for which Task2Box embeddings are learned. (1) Shows the learned box embeddings where datasets from the same group (taxonomic class) have the same color. Datasets naturally cluster to their ground truth groups. (2) Shows the hierarchy learned through Task2Box for a specific class. The hierarchy matches the ground truth relationships based on biological classification. Orders that belong to Class Arachnida are learned as boxes (A, B, C) contained by the larger box for Arachnida; families under each of the orders are learned as smaller boxes contained by the corresponding orders they belong to.*
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://rangeldaroya.github.io/files/task2box_huggingface_demo.html" height="525" width="525"></iframe>
+
 # Overview
 Modeling and visualizing relationships between tasks or datasets is an important step towards solving various meta-tasks such as dataset discovery, multi-tasking, and transfer learning.
 However, many relationships (e.g., containment or transferability) are naturally asymmetric and current approaches for representation and visualization (e.g., t-SNE) do not readily support this.
