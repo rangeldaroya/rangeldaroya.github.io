@@ -14,7 +14,8 @@ I am a PhD student in the College of Information and Computer Sciences at the Un
 My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications.
 
 # News
-* **2023-10** Presented our paper [COSE](https://rangeldaroya.github.io/projects/cose) in VIPriors at ICCV 2023
+* **2024-01** [Task2Box](https://rangeldaroya.github.io/projects/task2box) paper accepted at CVPR 2024
+* **2023-10** [COSE](https://rangeldaroya.github.io/projects/cose) paper presented in VIPriors at ICCV 2023
 * **2022-09** Started PhD CS at University of Massachusetts Amherst
-* **2020-06** [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Daroya_REIN_Flexible_Mesh_Generation_From_Point_Clouds_CVPRW_2020_paper.html) accepted (oral presentation) at CVPR 2020 workshop
+* **2020-06** [REIN](https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Daroya_REIN_Flexible_Mesh_Generation_From_Point_Clouds_CVPRW_2020_paper.html) accepted (oral presentation) at CVPR 2020 workshop
 * **2018-01** Started MS Electrical Engineering at University of the Philippines
