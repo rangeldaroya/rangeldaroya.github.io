@@ -14,8 +14,12 @@ tags:
 <!-- Rangel Daroya, [Aaron Sun](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) <br/> -->
 <a href="https://rangeldaroya.github.io/">Rangel Daroya</a>, <a href="https://aaronsun1030.github.io">Aaron Sun</a>, <a href="https://people.cs.umass.edu/~smaji/index.html">Subhransu Maji</a> <br/>
 <em> University of Massachusetts Amherst </em> <br/>
-<!-- <a href="https://arxiv.org/abs/2309.10989">[arXiv]</a> <br/>   -->
-<!-- [[arXiv Paper]](https://arxiv.org/abs/2309.10989) <br/> -->
+
+[![arXiv preprint](https://img.shields.io/badge/arXiv-2403.17173-red)](https://arxiv.org/abs/2403.17173)
+[![CVPR paper](https://img.shields.io/badge/CVPR-2024-blue)]()
+[![github](https://img.shields.io/badge/github-8A2BE2)](https://github.com/cvl-umass/task2box) 
+
+[Overview](#overview) | [Key Idea and Results](#key-idea) | [Code](#code) | [Citation](#bibtex) | [Acknowledgements](#acknowledgements)
 
 </div>
 
@@ -93,14 +97,20 @@ Finally, the low-dimensional box embeddings have the added advantage of being in
 
 
 
-
-
 # Code
 The code is available at [https://github.com/cvl-umass/task2box](https://github.com/cvl-umass/task2box)
 
-<!-- # BibTeX
+# BibTeX
 ```
-``` -->
+@misc{daroya2024task2box,
+      title={Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships}, 
+      author={Rangel Daroya and Aaron Sun and Subhransu Maji},
+      year={2024},
+      eprint={2403.17173},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
-<!-- # Acknowledgements
-The project was funded in part by NSF grant #1749833 to Subhransu Maji. The experiments were performed on the University of Massachusetts GPU cluster funded by the Mass. Technology Collaborative. -->
+# Acknowledgements
+This work was supported by awards from the National Science Foundation (2329927 and 1749833) and the NASA AIST program. The experiments were performed on the University of Massachusetts GPU cluster funded by the Mass. Technology Collaborative.
