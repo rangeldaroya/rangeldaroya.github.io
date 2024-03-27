@@ -15,7 +15,7 @@ tags:
 <!-- Rangel Daroya*, [Aaron Sun*](https://aaronsun1030.github.io), [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) <br/> -->
 <a href="https://rangeldaroya.github.io/">Rangel Daroya*</a>, <a href="https://aaronsun1030.github.io">Aaron Sun*</a>, <a href="https://people.cs.umass.edu/~smaji/index.html">Subhransu Maji</a> <br/>
 <em> University of Massachusetts Amherst </em> <br/>
-<a href="https://arxiv.org/abs/2309.10989">[arXiv]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023W/VIPriors/html/Daroya_COSE_A_Consistency-Sensitivity_Metric_for_Saliency_on_Image_Classification_ICCVW_2023_paper.html">[Paper]</a>  <br/>  
+<a href="https://arxiv.org/abs/2309.10989">[arXiv]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023W/VIPriors/html/Daroya_COSE_A_Consistency-Sensitivity_Metric_for_Saliency_on_Image_Classification_ICCVW_2023_paper.html">[ICCVW 2023]</a>  <br/>  
 <!-- [[arXiv Paper]](https://arxiv.org/abs/2309.10989) <br/> -->
 
 </div>
