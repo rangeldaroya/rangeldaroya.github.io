@@ -15,9 +15,11 @@ tags:
 <a href="https://rangeldaroya.github.io/">Rangel Daroya</a>, <a href="https://aaronsun1030.github.io">Aaron Sun</a>, <a href="https://people.cs.umass.edu/~smaji/index.html">Subhransu Maji</a> <br/>
 <em> University of Massachusetts Amherst </em> <br/>
 
+
 [![arXiv preprint](https://img.shields.io/badge/arXiv-2403.17173-red)](https://arxiv.org/abs/2403.17173)
 [![CVPR paper](https://img.shields.io/badge/CVPR-2024-blue)]()
 [![github](https://img.shields.io/badge/github-8A2BE2)](https://github.com/cvl-umass/task2box) 
+
 
 [Overview](#overview) | [Key Idea and Results](#key-idea) | [Code](#code) | [Citation](#bibtex) | [Acknowledgements](#acknowledgements)
 
