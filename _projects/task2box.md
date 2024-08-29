@@ -17,7 +17,7 @@ tags:
 
 <a href="https://arxiv.org/abs/2403.17173">[arXiv]</a><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Daroya_Task2Box_Box_Embeddings_for_Modeling_Asymmetric_Task_Relationships_CVPR_2024_paper.html">[CVPR24]</a>  <br/>  
 
-(CVPR 2024 Poster Highlight) <br/> 
+(CVPR 2024 Highlight) <br/> 
 <!-- [![arXiv preprint](https://img.shields.io/badge/arXiv-2403.17173-red)](https://arxiv.org/abs/2403.17173)
 [![CVPR paper](https://img.shields.io/badge/CVPR-2024-blue)]()
 [![github](https://img.shields.io/badge/github-8A2BE2)](https://github.com/cvl-umass/task2box)  -->
