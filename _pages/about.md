@@ -26,14 +26,14 @@ My current research involves using ML and computer vision to monitor water and s
 (* means equal contribution)
 <table style="width:100%;border:0px;border-width:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
-  <!-- <tr>
+  <tr>
     <td style="border:none;padding:16px;width:20%;vertical-align:middle">
       <img src="../files/wildsat-thumbnail.png" alt="wildsat" width="160" height="160">
     </td>
     <td style="border:none;padding:8px;width:80%;vertical-align:middle">
       <strong>WildSAT: Learning Satellite Image Representations from Wildlife Observations</strong>
       <br>
-      <u>Rangel Daroya</u>, Elijah Cole, Oisin Mac Aodha, Grant Van Horn, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <u>Rangel Daroya</u>, <a href="https://elijahcole.me/">Elijah Cole</a>, <a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>, <a href="https://gvh.codes/">Grant Van Horn</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
       <em>arXiv</em> 2024
       <br>
@@ -43,7 +43,7 @@ My current research involves using ML and computer vision to monitor water and s
       We show satellite image representations can be improved using wildlife observations
       </p>
     </td>
-  </tr> -->
+  </tr>
 
   <tr>
     <td style="border:none;padding:16px;width:20%;vertical-align:middle">
