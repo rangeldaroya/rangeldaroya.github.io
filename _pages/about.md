@@ -20,3 +20,82 @@ My current research involves using ML and computer vision to monitor water and s
 * **2022-09** Started PhD CS at University of Massachusetts Amherst
 * **2020-06** [REIN](https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Daroya_REIN_Flexible_Mesh_Generation_From_Point_Clouds_CVPRW_2020_paper.html) accepted (oral presentation) at CVPR 2020 workshop
 * **2018-01** Started MS Electrical Engineering at University of the Philippines
+
+
+# Publications
+(* means equal contribution)
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  
+  <tr>
+    <td style="padding:16px;width:20%;vertical-align:middle">
+      <img src="../files/task2box-thumbnail.png" alt="task2box" width="160" height="160">
+    </td>
+    <td style="padding:8px;width:80%;vertical-align:middle">
+      <a href="">
+        <span class="papertitle">Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships</span>
+      </a>
+      <br>
+      <strong>Rangel Daroya</strong>, <a href="https://aaronsun1030.github.io/">Aaron Sun</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <br>
+      <em>CVPR</em> 2024
+      <br>
+      <a href="https://rangeldaroya.github.io/projects/task2box">project page</a>
+      /
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Daroya_Task2Box_Box_Embeddings_for_Modeling_Asymmetric_Task_Relationships_CVPR_2024_paper.html">CVPR24</a>
+      /
+      <a href="https://arxiv.org/abs/2403.17173">arXiv</a>
+      <p></p>
+      <p>
+      We present a method for modeling asymmetric relationships between vision tasks using box embeddings
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:16px;width:20%;vertical-align:middle">
+      <img src="../files/cose-thumbnail.png" alt="cose" width="160" height="160">
+    </td>
+    <td style="padding:8px;width:80%;vertical-align:middle">
+      <a href="">
+        <span class="papertitle">COSE: A Consistency-Sensitivity Metric for Saliency on Image Classification</span>
+      </a>
+      <br>
+      <strong>Rangel Daroya*</strong>, <a href="https://aaronsun1030.github.io/">Aaron Sun*</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <br>
+      <em>ICCVW</em> 2023
+      <br>
+      <a href="https://rangeldaroya.github.io/projects/cose">project page</a>
+      /
+      <a href="https://openaccess.thecvf.com/content/ICCV2023W/VIPriors/html/Daroya_COSE_A_Consistency-Sensitivity_Metric_for_Saliency_on_Image_Classification_ICCVW_2023_paper.html">ICCVW23</a>
+      /
+      <a href="https://arxiv.org/abs/2309.10989">arXiv</a>
+      <p></p>
+      <p>
+      We propose metrics related to the consistency and sensitivity of saliency maps on image classification tasks to assess the performance of different explainable AI methods on a variety of models and datasets
+      </p>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td style="padding:16px;width:20%;vertical-align:middle">
+      <img src="../files/rein-thumbnail.png" alt="rein" width="160" height="160">
+    </td>
+    <td style="padding:8px;width:80%;vertical-align:middle">
+      <a href="">
+        <span class="papertitle">REIN: Flexible mesh generation from point clouds</span>
+      </a>
+      <br>
+      <strong>Rangel Daroya</strong>, <a href="https://roatienza.github.io/">Rowel Atienza</a>, <a href="https://eee.upd.edu.ph/about/faculty/rhandley-cajote/">Rhandley Cajote</a>
+      <br>
+      <em>CVPRW</em> 2020
+      <br>
+      <a href="https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Daroya_REIN_Flexible_Mesh_Generation_From_Point_Clouds_CVPRW_2020_paper.html">CVPRW20</a>
+      <p></p>
+      <p>
+      We present a method for generating a mesh from a sparse point cloud with an arbitrary number of points
+      </p>
+    </td>
+  </tr>
+
+</tbody></table>
