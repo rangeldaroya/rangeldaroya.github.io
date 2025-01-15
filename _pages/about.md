@@ -24,13 +24,13 @@ My current research involves using ML and computer vision to monitor water and s
 
 # Publications
 (* means equal contribution)
-<table style="width:100%;border:0.01px;border-width:0.01px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:0px;border-width:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
   <!-- <tr>
-    <td style="padding:16px;width:20%;vertical-align:middle">
+    <td style="border:none;padding:16px;width:20%;vertical-align:middle">
       <img src="../files/wildsat-thumbnail.png" alt="wildsat" width="160" height="160">
     </td>
-    <td style="padding:8px;width:80%;vertical-align:middle">
+    <td style="border:none;padding:8px;width:80%;vertical-align:middle">
       <strong>WildSAT: Learning Satellite Image Representations from Wildlife Observations</strong>
       <br>
       <u>Rangel Daroya</u>, Elijah Cole, Oisin Mac Aodha, Grant Van Horn, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
@@ -46,10 +46,10 @@ My current research involves using ML and computer vision to monitor water and s
   </tr> -->
 
   <tr>
-    <td style="padding:16px;width:20%;vertical-align:middle">
+    <td style="border:none;padding:16px;width:20%;vertical-align:middle">
       <img src="../files/water-thumbnail.png" alt="water" width="160" height="160">
     </td>
-    <td style="padding:8px;width:80%;vertical-align:middle">
+    <td style="border:none;padding:8px;width:80%;vertical-align:middle">
       <strong>Improving Satellite Imagery Masking using Multi-task and Transfer Learning</strong>
       <br>
       <u>Rangel Daroya</u>, <a href="https://www.luisalucchese.com/">Luisa Vieira Lucchese</a>, Travis Simmons, Punwath Prum, <a href="https://uncglobalhydrology.org/tamlin/">Tamlin Pavelsky</a>, <a href="https://www.geology.pitt.edu/people/john-gardner-phd">John Gardner</a>, <a href="https://www.umass.edu/engineering/about/directory/colin-gleason">Colin J Gleason</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
@@ -65,15 +65,15 @@ My current research involves using ML and computer vision to monitor water and s
   </tr>
 
   <tr>
-    <td style="padding:16px;width:20%;vertical-align:middle">
+    <td style="border:none;padding:16px;width:20%;vertical-align:middle">
       <img src="../files/task2box-thumbnail.png" alt="task2box" width="160" height="160">
     </td>
-    <td style="padding:8px;width:80%;vertical-align:middle">
+    <td style="border:none;padding:8px;width:80%;vertical-align:middle">
       <strong>Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships</strong>
       <br>
       <u>Rangel Daroya</u>, <a href="https://aaronsun1030.github.io/">Aaron Sun</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
-      <em>CVPR</em> 2024
+      <em>CVPR</em> 2024 <span style="color: #ff0000">(Highlight: 11.9% of accepted papers)</span>
       <br>
       <a href="https://rangeldaroya.github.io/projects/task2box">project page</a>
       /
@@ -88,10 +88,10 @@ My current research involves using ML and computer vision to monitor water and s
   </tr>
 
   <tr>
-    <td style="padding:16px;width:20%;vertical-align:middle">
+    <td style="border:none;padding:16px;width:20%;vertical-align:middle">
       <img src="../files/cose-thumbnail.png" alt="cose" width="160" height="160">
     </td>
-    <td style="padding:8px;width:80%;vertical-align:middle">
+    <td style="border:none;padding:8px;width:80%;vertical-align:middle">
       <strong>COSE: A Consistency-Sensitivity Metric for Saliency on Image Classification</strong>
       <br>
       <u>Rangel Daroya*</u>, <a href="https://aaronsun1030.github.io/">Aaron Sun*</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
@@ -112,10 +112,10 @@ My current research involves using ML and computer vision to monitor water and s
 
 
   <tr>
-    <td style="padding:16px;width:20%;vertical-align:middle">
+    <td style="border:none;padding:16px;width:20%;vertical-align:middle">
       <img src="../files/rein-thumbnail.png" alt="rein" width="160" height="160">
     </td>
-    <td style="padding:8px;width:80%;vertical-align:middle">
+    <td style="border:none;padding:8px;width:80%;vertical-align:middle">
       <strong>REIN: Flexible mesh generation from point clouds</strong>
       <br>
       <u>Rangel Daroya</u>, <a href="https://roatienza.github.io/">Rowel Atienza</a>, <a href="https://eee.upd.edu.ph/about/faculty/rhandley-cajote/">Rhandley Cajote</a>
