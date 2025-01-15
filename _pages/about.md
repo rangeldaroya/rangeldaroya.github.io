@@ -24,7 +24,7 @@ My current research involves using ML and computer vision to monitor water and s
 
 # Publications
 (* means equal contribution)
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:0px;border-width:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
   <!-- <tr>
     <td style="padding:16px;width:20%;vertical-align:middle">
