@@ -26,16 +26,52 @@ My current research involves using ML and computer vision to monitor water and s
 (* means equal contribution)
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
+  <!-- <tr>
+    <td style="padding:16px;width:20%;vertical-align:middle">
+      <img src="../files/wildsat-thumbnail.png" alt="wildsat" width="160" height="160">
+    </td>
+    <td style="padding:8px;width:80%;vertical-align:middle">
+      <strong>WildSAT: Learning Satellite Image Representations from Wildlife Observations</strong>
+      <br>
+      <u>Rangel Daroya</u>, Elijah Cole, Oisin Mac Aodha, Grant Van Horn, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <br>
+      <em>arXiv</em> 2024
+      <br>
+      <a href="https://arxiv.org/abs/2412.14428">arXiv</a>
+      <p></p>
+      <p>
+      We show satellite image representations can be improved using wildlife observations
+      </p>
+    </td>
+  </tr> -->
+
+  <tr>
+    <td style="padding:16px;width:20%;vertical-align:middle">
+      <img src="../files/water-thumbnail.png" alt="water" width="160" height="160">
+    </td>
+    <td style="padding:8px;width:80%;vertical-align:middle">
+      <strong>Improving Satellite Imagery Masking using Multi-task and Transfer Learning</strong>
+      <br>
+      <u>Rangel Daroya</u>, <a href="https://www.luisalucchese.com/">Luisa Vieira Lucchese</a>, Travis Simmons, Punwath Prum, <a href="https://uncglobalhydrology.org/tamlin/">Tamlin Pavelsky</a>, <a href="https://www.geology.pitt.edu/people/john-gardner-phd">John Gardner</a>, <a href="https://www.umass.edu/engineering/about/directory/colin-gleason">Colin J Gleason</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <br>
+      <em>arXiv</em> 2024
+      <br>
+      <a href="https://arxiv.org/abs/2412.08545">arXiv</a>
+      <p></p>
+      <p>
+      We show a multi-task model for predicting water, cloud, cloud shadow, terain shadow, and snow/ice simultaneously from satellite images
+      </p>
+    </td>
+  </tr>
+
   <tr>
     <td style="padding:16px;width:20%;vertical-align:middle">
       <img src="../files/task2box-thumbnail.png" alt="task2box" width="160" height="160">
     </td>
     <td style="padding:8px;width:80%;vertical-align:middle">
-      <a href="">
-        <span class="papertitle">Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships</span>
-      </a>
+      <strong>Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships</strong>
       <br>
-      <strong>Rangel Daroya</strong>, <a href="https://aaronsun1030.github.io/">Aaron Sun</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <u>Rangel Daroya</u>, <a href="https://aaronsun1030.github.io/">Aaron Sun</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
       <em>CVPR</em> 2024
       <br>
@@ -56,11 +92,9 @@ My current research involves using ML and computer vision to monitor water and s
       <img src="../files/cose-thumbnail.png" alt="cose" width="160" height="160">
     </td>
     <td style="padding:8px;width:80%;vertical-align:middle">
-      <a href="">
-        <span class="papertitle">COSE: A Consistency-Sensitivity Metric for Saliency on Image Classification</span>
-      </a>
+      <strong>COSE: A Consistency-Sensitivity Metric for Saliency on Image Classification</strong>
       <br>
-      <strong>Rangel Daroya*</strong>, <a href="https://aaronsun1030.github.io/">Aaron Sun*</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <u>Rangel Daroya*</u>, <a href="https://aaronsun1030.github.io/">Aaron Sun*</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
       <em>ICCVW</em> 2023
       <br>
@@ -82,11 +116,9 @@ My current research involves using ML and computer vision to monitor water and s
       <img src="../files/rein-thumbnail.png" alt="rein" width="160" height="160">
     </td>
     <td style="padding:8px;width:80%;vertical-align:middle">
-      <a href="">
-        <span class="papertitle">REIN: Flexible mesh generation from point clouds</span>
-      </a>
+      <strong>REIN: Flexible mesh generation from point clouds</strong>
       <br>
-      <strong>Rangel Daroya</strong>, <a href="https://roatienza.github.io/">Rowel Atienza</a>, <a href="https://eee.upd.edu.ph/about/faculty/rhandley-cajote/">Rhandley Cajote</a>
+      <u>Rangel Daroya</u>, <a href="https://roatienza.github.io/">Rowel Atienza</a>, <a href="https://eee.upd.edu.ph/about/faculty/rhandley-cajote/">Rhandley Cajote</a>
       <br>
       <em>CVPRW</em> 2020
       <br>
