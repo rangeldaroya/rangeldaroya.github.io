@@ -14,6 +14,7 @@ I am a PhD student in the College of Information and Computer Sciences at the Un
 My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications.
 
 # News
+* **2025-01** Gave a [talk](https://www.facebook.com/share/p/19sZR51KiF/) at the University of the Philippines about ["Computer Vision in the Wild"](../files/2025-01-20_UPEEEI_CV-in-the-Wild.pdf)
 * **2024-05** Passed PhD Portfolio with Distinction! (Awarded to select PhD students meeting a high standard of completion, voted by faculty)
 * **2024-03** [Task2Box](https://rangeldaroya.github.io/projects/task2box) paper accepted at CVPR 2024 as a Highlight (11.9% of accepted papers)!
 * **2023-10** [COSE](https://rangeldaroya.github.io/projects/cose) paper presented in VIPriors at ICCV 2023
