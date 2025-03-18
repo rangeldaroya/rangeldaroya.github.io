@@ -14,6 +14,7 @@ I am a PhD student in the College of Information and Computer Sciences at the Un
 My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications.
 
 # News
+* **2025-05** Our paper on [Improving Satellite Imagery Masking using Multi-task and Transfer Learning](https://ieeexplore.ieee.org/document/10925631) has been published at IEEE JSTARS
 * **2025-01** Gave a [talk](https://www.facebook.com/share/p/19sZR51KiF/) at the University of the Philippines about ["Computer Vision in the Wild"](../files/2025-01-20_UPEEEI_CV-in-the-Wild.pdf)
 * **2024-05** Passed PhD Portfolio with Distinction! (Awarded to select PhD students meeting a high standard of completion, voted by faculty)
 * **2024-03** [Task2Box](https://rangeldaroya.github.io/projects/task2box) paper accepted at CVPR 2024 as a Highlight (11.9% of accepted papers)!
@@ -55,8 +56,10 @@ My current research involves using ML and computer vision to monitor water and s
       <br>
       <u>Rangel Daroya</u>, <a href="https://www.luisalucchese.com/">Luisa Vieira Lucchese</a>, Travis Simmons, Punwath Prum, <a href="https://uncglobalhydrology.org/tamlin/">Tamlin Pavelsky</a>, <a href="https://www.geology.pitt.edu/people/john-gardner-phd">John Gardner</a>, <a href="https://www.umass.edu/engineering/about/directory/colin-gleason">Colin J Gleason</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
-      <em>arXiv</em> 2024
+      <em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em> 2025
       <br>
+      <a href="https://ieeexplore.ieee.org/document/10925631">JSTARS25</a>
+      /
       <a href="https://arxiv.org/abs/2412.08545">arXiv</a>
       <p></p>
       <p>
