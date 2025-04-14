@@ -24,7 +24,7 @@ My current research involves using ML and computer vision to monitor water and s
 * **2018-01** Started MS Electrical Engineering at University of the Philippines
 
 
-# Publications
+# Select Publications
 (* means equal contribution)
 <table style="width:100%;border:0px;border-width:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
