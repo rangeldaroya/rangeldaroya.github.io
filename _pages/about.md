@@ -14,6 +14,7 @@ I am a PhD student in the College of Information and Computer Sciences at the Un
 My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications.
 
 # News
+* **2025-06** [WildSAT](https://arxiv.org/abs/2412.14428) accepted to ICCV 2025!
 * **2025-03** Our paper on [Improving Satellite Imagery Masking using Multi-task and Transfer Learning](https://ieeexplore.ieee.org/document/10925631) has been published at IEEE JSTARS
 * **2025-01** Gave a [talk](https://www.facebook.com/share/p/19sZR51KiF/) at the University of the Philippines about ["Computer Vision in the Wild"](../files/2025-01-20_UPEEEI_CV-in-the-Wild.pdf)
 * **2024-05** Passed PhD Portfolio with Distinction! (Awarded to select PhD students meeting a high standard of completion, voted by faculty)
@@ -24,7 +25,7 @@ My current research involves using ML and computer vision to monitor water and s
 * **2018-01** Started MS Electrical Engineering at University of the Philippines
 
 
-# Select Publications
+# Selected Publications
 (* means equal contribution)
 <table style="width:100%;border:0px;border-width:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
@@ -37,7 +38,7 @@ My current research involves using ML and computer vision to monitor water and s
       <br>
       <u>Rangel Daroya</u>, <a href="https://elijahcole.me/">Elijah Cole</a>, <a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>, <a href="https://gvh.codes/">Grant Van Horn</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
-      <em>arXiv</em> 2024
+      accepted to <em>ICCV</em> 2025
       <br>
       <a href="https://arxiv.org/abs/2412.14428">arXiv</a>
       <p></p>
