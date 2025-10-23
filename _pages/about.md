@@ -14,7 +14,7 @@ I am a PhD student in the College of Information and Computer Sciences at the Un
 My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications.
 
 # News
-* **2025-06** [WildSAT](https://arxiv.org/abs/2412.14428) accepted to ICCV 2025!
+* **2025-06** [WildSAT](https://arxiv.org/abs/2412.14428) accepted to ICCV 2025! Also presenting it at the [Computer Vision for Ecology workshop](https://cv4e.netlify.app/) as a Spotlight talk
 * **2025-03** Our paper on [Improving Satellite Imagery Masking using Multi-task and Transfer Learning](https://ieeexplore.ieee.org/document/10925631) has been published at IEEE JSTARS
 * **2025-01** Gave a [talk](https://www.facebook.com/share/p/19sZR51KiF/) at the University of the Philippines about ["Computer Vision in the Wild"](../files/2025-01-20_UPEEEI_CV-in-the-Wild.pdf)
 * **2024-05** Passed PhD Portfolio with Distinction! (Awarded to select PhD students meeting a high standard of completion, voted by faculty)
