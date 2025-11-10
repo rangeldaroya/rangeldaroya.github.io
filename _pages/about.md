@@ -14,6 +14,7 @@ I am a PhD student in the College of Information and Computer Sciences at the Un
 My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications.
 
 # News
+* **2025-11** [RiverScope](https://arxiv.org/abs/2509.02451) accepted to AAAI 2026!
 * **2025-06** [WildSAT](https://arxiv.org/abs/2412.14428) accepted to ICCV 2025! Also presenting it at the [Computer Vision for Ecology workshop](https://cv4e.netlify.app/) as a Spotlight talk
 * **2025-03** Our paper on [Improving Satellite Imagery Masking using Multi-task and Transfer Learning](https://ieeexplore.ieee.org/document/10925631) has been published at IEEE JSTARS
 * **2025-01** Gave a [talk](https://www.facebook.com/share/p/19sZR51KiF/) at the University of the Philippines about ["Computer Vision in the Wild"](../files/2025-01-20_UPEEEI_CV-in-the-Wild.pdf)
@@ -28,6 +29,26 @@ My current research involves using ML and computer vision to monitor water and s
 # Selected Publications
 (* means equal contribution)
 <table style="width:100%;border:0px;border-width:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+  <tr>
+    <td style="border:none;padding:16px;width:20%;vertical-align:middle">
+      <img src="../files/riverscope-thumbnail.jpg" alt="riverscope" width="160" height="80">
+    </td>
+    <td style="border:none;padding:8px;width:80%;vertical-align:middle">
+      <strong>RiverScope: High-Resolution River Masking Dataset</strong>
+      <br>
+      <u>Rangel Daroya</u>, Taylor Rowley, Jonathan Flores, Elisa Friedmann, Fiona Bennitt, Heejin An, Travis Simmons, Marissa Jean Hughes, Camryn L Kluetmeier, Solomon Kica, J Daniel Vélez, Sarah E Esenther, Thomas E Howard, Yanqi Ye, Audrey Turcotte, Colin Gleason, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <br>
+      <em>AAAI</em> 2026 (to appear)
+      <br>
+      <a href="https://arxiv.org/abs/2509.02451">arXiv</a>
+      <p></p>
+      <p>
+      We introduce a high-resolution river segmentation dataset that can be used for precise hydrology tasks such as river width estimation
+      </p>
+    </td>
+  </tr>
   
   <tr>
     <td style="border:none;padding:16px;width:20%;vertical-align:middle">
@@ -38,8 +59,12 @@ My current research involves using ML and computer vision to monitor water and s
       <br>
       <u>Rangel Daroya</u>, <a href="https://elijahcole.me/">Elijah Cole</a>, <a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>, <a href="https://gvh.codes/">Grant Van Horn</a>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
-      accepted to <em>ICCV</em> 2025
+      <em>ICCV</em> 2025 
       <br>
+      <em>CV4Ecology Workshop</em> @ ICCV 2025 <span style="color: #ff0000">(Spotlight Talk)</span>
+      <br>
+      <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Daroya_WildSAT_Learning_Satellite_Image_Representations_from_Wildlife_Observations_ICCV_2025_paper.html">ICCV25</a>
+      /
       <a href="https://arxiv.org/abs/2412.14428">arXiv</a>
       <p></p>
       <p>
