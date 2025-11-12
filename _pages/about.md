@@ -8,10 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a PhD student in the Computer Vision Lab at UMass Amherst, advised by Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html). My research explores the relationships between computer vision tasks, with a focus on multi-task and transfer learning, and developing robust embeddings for large-scale scientific applications. My primary application domain is environmental remote sensing, where I build models to analyze multispectral satellite imagery for hydrology.
 
-I am a PhD student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, supervised by Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) in the [Computer Vision Lab](http://vis-www.cs.umass.edu/people.html). Previously, I was a graduate research assistant at the University of the Philippines working on 3D reconstruction under the supervision of Prof. [Rowel Atienza](https://roatienza.github.io/), where I also got my master's degree in Electrical Engineering. I obtained my bachelor's degree in Electronics and Communications Engineering from the same univeristy.
+Before my PhD, I was a graduate research assistant at the University of the Philippines working on 3D reconstruction under the supervision of Prof. [Rowel Atienza](https://roatienza.github.io/), where I completed my M.S. in Electrical Engineering. I obtained my B.S. in Electronics and Communications Engineering from the same univeristy.
 
-My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications.
+<!-- My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications. -->
 
 # News
 * **2025-11** [RiverScope](https://arxiv.org/abs/2509.02451) accepted to AAAI 2026!
