@@ -15,6 +15,7 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
 <!-- My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications. -->
 
 # News
+* **2025-11** [SuperRivolution](https://arxiv.org/abs/2511.09597) accepted to WACV 2026!
 * **2025-11** [RiverScope](https://arxiv.org/abs/2509.02451) accepted to AAAI 2026!
 * **2025-06** [WildSAT](https://arxiv.org/abs/2412.14428) accepted to ICCV 2025! Also presenting it at the [Computer Vision for Ecology workshop](https://cv4e.netlify.app/) as a Spotlight talk
 * **2025-03** Our paper on [Improving Satellite Imagery Masking using Multi-task and Transfer Learning](https://ieeexplore.ieee.org/document/10925631) has been published at IEEE JSTARS
@@ -34,6 +35,25 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
 
   <tr>
     <td style="border:none;padding:16px;width:20%;vertical-align:middle">
+      <img src="../files/superrivolution-thumbnail.png" alt="superrivolution" width="160" height="80">
+    </td>
+    <td style="border:none;padding:8px;width:80%;vertical-align:middle">
+      <strong>SuperRivolution: Fine-Scale Rivers from Coarse Temporal Satellite Imagery</strong>
+      <br>
+      <u>Rangel Daroya</u>, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
+      <br>
+      <em>WACV</em> 2026 (to appear)
+      <br>
+      <a href="https://arxiv.org/abs/2511.09597">arXiv</a>
+      <p></p>
+      <p>
+      We introduce a method and an accompanying dataset that leverages multiple low-resolution satellite imagery instead of expensive high-resolution imagery for fine-scale satellite image tasks such as river width estimation
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;padding:16px;width:20%;vertical-align:middle">
       <img src="../files/riverscope-thumbnail.jpg" alt="riverscope" width="160" height="80">
     </td>
     <td style="border:none;padding:8px;width:80%;vertical-align:middle">
@@ -46,7 +66,7 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
       <a href="https://arxiv.org/abs/2509.02451">arXiv</a>
       <p></p>
       <p>
-      We introduce a high-resolution river segmentation dataset that can be used for precise hydrology tasks such as river width estimation
+      We introduce a high-resolution river segmentation dataset that can be used for precise hydrology tasks such as river segmentation and river width estimation
       </p>
     </td>
   </tr>
