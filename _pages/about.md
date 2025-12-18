@@ -17,7 +17,7 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
 # News
 * **2025-12** Attending AGU'25! I’ll be giving two oral presentations on our latest work in remote sensing: [RiverScope](https://arxiv.org/abs/2509.02451) and [WildSAT](https://arxiv.org/abs/2412.14428)
 * **2025-11** [SuperRivolution](https://arxiv.org/abs/2511.09597) accepted to WACV 2026!
-* **2025-11** [RiverScope](https://arxiv.org/abs/2509.02451) accepted to AAAI 2026!
+* **2025-11** [RiverScope](https://arxiv.org/abs/2509.02451) accepted to AAAI 2026! I will also be giving an oral presentation at AAAI.
 * **2025-06** [WildSAT](https://arxiv.org/abs/2412.14428) accepted to ICCV 2025! Also presenting it at the [Computer Vision for Ecology workshop](https://cv4e.netlify.app/) as a Spotlight talk
 * **2025-03** Our paper on [Improving Satellite Imagery Masking using Multi-task and Transfer Learning](https://ieeexplore.ieee.org/document/10925631) has been published at IEEE JSTARS
 * **2025-01** Gave a [talk](https://www.facebook.com/share/p/19sZR51KiF/) at the University of the Philippines about ["Computer Vision in the Wild"](../files/2025-01-20_UPEEEI_CV-in-the-Wild.pdf)
@@ -62,7 +62,7 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
       <br>
       <u>Rangel Daroya</u>, Taylor Rowley, Jonathan Flores, Elisa Friedmann, Fiona Bennitt, Heejin An, Travis Simmons, Marissa Jean Hughes, Camryn L Kluetmeier, Solomon Kica, J Daniel Vélez, Sarah E Esenther, Thomas E Howard, Yanqi Ye, Audrey Turcotte, Colin Gleason, <a href="https://people.cs.umass.edu/~smaji/">Subhransu Maji</a>
       <br>
-      <em>AAAI</em> 2026 (to appear)
+      <em>AAAI</em> 2026 (to appear) <span style="color: #ff0000">(Oral Presentation)</span>
       <br>
       <a href="https://arxiv.org/abs/2509.02451">arXiv</a>
       <p></p>
