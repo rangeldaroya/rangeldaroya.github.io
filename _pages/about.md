@@ -65,6 +65,8 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
       <br>
       <em>AAAI</em> 2026 (to appear) <span style="color: #ff0000">(Oral Presentation)</span>
       <br>
+      <span style="color: #ff0000">AGU'25 Outstanding Student Presentation Award</span>
+      <br>
       <a href="https://arxiv.org/abs/2509.02451">arXiv</a>
       <p></p>
       <p>
