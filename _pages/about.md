@@ -15,6 +15,7 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
 <!-- My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications. -->
 
 # News
+* **2026-01** Received the 2025 AGU Outstanding Student Presentation Award for RiverScope!
 * **2025-12** Attending AGU'25! I’ll be giving two oral presentations on our latest work in remote sensing: [RiverScope](https://arxiv.org/abs/2509.02451) and [WildSAT](https://arxiv.org/abs/2412.14428)
 * **2025-11** [SuperRivolution](https://arxiv.org/abs/2511.09597) accepted to WACV 2026!
 * **2025-11** [RiverScope](https://arxiv.org/abs/2509.02451) accepted to AAAI 2026! I will also be giving an oral presentation at AAAI.
