@@ -15,6 +15,7 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
 <!-- My current research involves using ML and computer vision to monitor water and sediment movements in Earth's rivers using satellite images. My other research interests are explainable AI, multitask learning, understanding relationships between computer vision tasks, and applying computer vision for remote sensing applications. -->
 
 # News
+* **2026-05** Will be a Research Intern at Adobe this summer!
 * **2026-03** Our paper on [Operational near real time global riverine sediment flux estimates from space](https://d197for5662m48.cloudfront.net/documents/publicationstatus/291098/preprint_pdf/336d2cae13e1b9bdab192f857eecf917.pdf) is accepted for publication to Geophysical Research Letters
 * **2026-02** [RealBirdID](https://arxiv.org/abs/2603.27033v1) accepted to CVPR 2026!
 * **2026-01** Our work with NASA on monitoring rivers was featured on the UMass website [here](https://www.umass.edu/news/article/unprecedented-data-global-river-quality-quantity-now-gathered-space-powered-umass)
