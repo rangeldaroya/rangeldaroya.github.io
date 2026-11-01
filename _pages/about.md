@@ -67,10 +67,12 @@ Before my PhD, I was a graduate research assistant at the University of the Phil
     <td style="border:none;padding:8px;width:80%;vertical-align:middle">
       <strong>RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs</strong>
       <br>
-      <a href="https://www.loganlawrence.info/">Logan Lawrence</a>, Mustafa Chasmai, <u>Rangel Daroya</u>, Wuao Liu, Seoyun Jeong, Aaron Sun, Max Hamilton, Fabien Delattre, Oindrila Saha, Subhransu Maji, Grant Van Horn
+      <a href="https://www.loganlawrence.info/">Logan Lawrence</a>, Oindrila Saha, <u>Rangel Daroya</u>, Mustafa Chasmai, Wuao Liu, Max Hamilton, Aaron Sun, Seoyun Jeong, Fabien Delattre, Subhransu Maji, Grant Van Horn
       <br>
       <em>CVPR</em> 2026
       <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Lawrence_RealBirdID_Benchmarking_Bird_Species_Identification_in_the_Era_of_MLLMs_CVPR_2026_paper.html">CVPR26</a>
+      /
       <a href="https://arxiv.org/abs/2603.27033v1">arXiv</a>
       <p></p>
       <p>
